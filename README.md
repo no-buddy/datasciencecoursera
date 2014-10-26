@@ -1,4 +1,6 @@
 datasciencecoursera
 ===================
 
-Something completely different
+Something completely different...
+
+But again... only for testing purposes...
